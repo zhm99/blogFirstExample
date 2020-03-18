@@ -1,0 +1,42 @@
+C:\Users\Korisnik\source\repos\Blog\Blog\bin\Debug\netcoreapp2.1\Blog.deps.json
+C:\Users\Korisnik\source\repos\Blog\Blog\bin\Debug\netcoreapp2.1\Blog.runtimeconfig.json
+C:\Users\Korisnik\source\repos\Blog\Blog\bin\Debug\netcoreapp2.1\Blog.runtimeconfig.dev.json
+C:\Users\Korisnik\source\repos\Blog\Blog\bin\Debug\netcoreapp2.1\Blog.dll
+C:\Users\Korisnik\source\repos\Blog\Blog\obj\Debug\netcoreapp2.1\Blog.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Blog\Blog\obj\Debug\netcoreapp2.1\Blog.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Blog\Blog\obj\Debug\netcoreapp2.1\Blog.RazorAssemblyInfo.cache
+C:\Users\Korisnik\source\repos\Blog\Blog\obj\Debug\netcoreapp2.1\Blog.RazorAssemblyInfo.cs
+C:\Users\Korisnik\source\repos\Blog\Blog\obj\Debug\netcoreapp2.1\Blog.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\Blog\Blog\obj\Debug\netcoreapp2.1\Blog.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\Blog\Blog\obj\Debug\netcoreapp2.1\Blog.RazorTargetAssemblyInfo.cache
+C:\Users\Korisnik\source\repos\Blog\Blog\bin\Debug\netcoreapp2.1\Blog.pdb
+C:\Users\Korisnik\source\repos\Blog\Blog\obj\Debug\netcoreapp2.1\Blog.dll
+C:\Users\Korisnik\source\repos\Blog\Blog\obj\Debug\netcoreapp2.1\Blog.pdb
+C:\Users\Korisnik\source\repos\Blog - Copy\Blog\bin\Debug\netcoreapp2.1\Blog.deps.json
+C:\Users\Korisnik\source\repos\Blog - Copy\Blog\bin\Debug\netcoreapp2.1\Blog.runtimeconfig.json
+C:\Users\Korisnik\source\repos\Blog - Copy\Blog\bin\Debug\netcoreapp2.1\Blog.runtimeconfig.dev.json
+C:\Users\Korisnik\source\repos\Blog - Copy\Blog\bin\Debug\netcoreapp2.1\Blog.dll
+C:\Users\Korisnik\source\repos\Blog - Copy\Blog\bin\Debug\netcoreapp2.1\Blog.pdb
+C:\Users\Korisnik\source\repos\Blog - Copy\Blog\obj\Debug\netcoreapp2.1\Blog.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Blog - Copy\Blog\obj\Debug\netcoreapp2.1\Blog.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Blog - Copy\Blog\obj\Debug\netcoreapp2.1\Blog.RazorAssemblyInfo.cache
+C:\Users\Korisnik\source\repos\Blog - Copy\Blog\obj\Debug\netcoreapp2.1\Blog.RazorAssemblyInfo.cs
+C:\Users\Korisnik\source\repos\Blog - Copy\Blog\obj\Debug\netcoreapp2.1\Blog.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\Blog - Copy\Blog\obj\Debug\netcoreapp2.1\Blog.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\Blog - Copy\Blog\obj\Debug\netcoreapp2.1\Blog.RazorTargetAssemblyInfo.cache
+C:\Users\Korisnik\source\repos\Blog - Copy\Blog\obj\Debug\netcoreapp2.1\Blog.dll
+C:\Users\Korisnik\source\repos\Blog - Copy\Blog\obj\Debug\netcoreapp2.1\Blog.pdb
+C:\Users\Korisnik\source\repos\Blog - First\Blog\bin\Debug\netcoreapp2.1\Blog.deps.json
+C:\Users\Korisnik\source\repos\Blog - First\Blog\bin\Debug\netcoreapp2.1\Blog.runtimeconfig.json
+C:\Users\Korisnik\source\repos\Blog - First\Blog\bin\Debug\netcoreapp2.1\Blog.runtimeconfig.dev.json
+C:\Users\Korisnik\source\repos\Blog - First\Blog\bin\Debug\netcoreapp2.1\Blog.dll
+C:\Users\Korisnik\source\repos\Blog - First\Blog\bin\Debug\netcoreapp2.1\Blog.pdb
+C:\Users\Korisnik\source\repos\Blog - First\Blog\obj\Debug\netcoreapp2.1\Blog.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Blog - First\Blog\obj\Debug\netcoreapp2.1\Blog.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Blog - First\Blog\obj\Debug\netcoreapp2.1\Blog.RazorAssemblyInfo.cache
+C:\Users\Korisnik\source\repos\Blog - First\Blog\obj\Debug\netcoreapp2.1\Blog.RazorAssemblyInfo.cs
+C:\Users\Korisnik\source\repos\Blog - First\Blog\obj\Debug\netcoreapp2.1\Blog.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\Blog - First\Blog\obj\Debug\netcoreapp2.1\Blog.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\Blog - First\Blog\obj\Debug\netcoreapp2.1\Blog.RazorTargetAssemblyInfo.cache
+C:\Users\Korisnik\source\repos\Blog - First\Blog\obj\Debug\netcoreapp2.1\Blog.dll
+C:\Users\Korisnik\source\repos\Blog - First\Blog\obj\Debug\netcoreapp2.1\Blog.pdb
